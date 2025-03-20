@@ -1,1 +1,9 @@
+<<<<<<< HEAD
 fruta1vvmopvnobn
+=======
+fruta1
+fruta2
+fruta3 ig
+frutaasia
+frutaoceania.unamasncmdofgo masd1234 obprbnprbongit 234
+>>>>>>> conflicto
