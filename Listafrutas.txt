@@ -1,3 +1,5 @@
 fruta1
 fruta2
-fruta3 i
+fruta3 ig
+frutaasia
+frutaoceania
